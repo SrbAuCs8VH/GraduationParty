@@ -12,7 +12,6 @@ Mercy Hill Community Church
 
 # 3pm-7pm
 
-[Link](url) and ![Image](src)
 ```
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3135.177549957362!2d-77.58323058439841!3d38.20577439501736!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b6b901c3dd4cf3%3A0x979cba7f3130127e!2sMercy%20Hill%20Community%20Church!5e0!3m2!1sen!2sus!4v1651688963565!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
