@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Christine Finished Her Master's!!
 
-You can use the [editor on GitHub](https://github.com/SrbAuCs8VH/GraduationParty/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Location and Time
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We will be hosting it at our church. Feel free to stay the whole time or pop in just to give a hug! We will have chick-fil-a nuggets and water. Games and the prizes will be delivered after the party- so we'll get to see the winners again :)
 
 ```markdown
-Syntax highlighted code block
+Mercy Hill Community Church
 
-# Header 1
-## Header 2
-### Header 3
+###9215 Courthouse Road, Spoysylvania VA 22553
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+# 3pm-7pm
 
 [Link](url) and ![Image](src)
 ```
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3135.177549957362!2d-77.58323058439841!3d38.20577439501736!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b6b901c3dd4cf3%3A0x979cba7f3130127e!2sMercy%20Hill%20Community%20Church!5e0!3m2!1sen!2sus!4v1651688963565!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### Food
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SrbAuCs8VH/GraduationParty/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+we will only have Chick-Fil-A nuggets and water. Anyone is welcome to bring grub but it would probably be unwise to come expecting dinner. :p
 
-### Support or Contact
+### Gifts
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+No gifts required. Christine's love language is quality time, but if your love langauge is gifts, Chick-Fil-A, Amazon, Marshall's, and Target Gift Cards are always appreciated.
